@@ -71,17 +71,3 @@ A solução aborda o problema em etapas sequenciais, com destaque para a valida�
 * `notebooks/`: Contém os códigos fontes documentados (`.ipynb`).
 * `data/`: Imagens originais utilizadas nos testes.
 * `results/`: Resultados visuais gerados pelo algoritmo.
-
-## Resultados Obtidos
-
-### Detecção de Portas (Hough Circular + Hough Linear)
-![Portas Detectadas](./results/portas_hough.png)
-*(Sugestão: Salve a imagem final do seu código com os arcos verdes e coloque na pasta results)*
-
-### Detecção de Paredes (Sobel)
-![Paredes Sobel](./results/sobel_final.png)
-
-## Autores
-
-* **[Bernardo Silva Luz]** - *Desenvolvimento e Documentação*
-* **[Madson Silva]** - *Desenvolvimento e Documentação*
