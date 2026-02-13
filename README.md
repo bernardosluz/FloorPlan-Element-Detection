@@ -1,10 +1,10 @@
 # FloorPlan-CV-Analysis: Detecção de Elementos Arquitetônicos em Plantas Baixas
 
 Este repositório contém a solução desenvolvida para a disciplina de Processamento de Imagens. O objetivo é identificar e segmentar elementos estruturais (paredes, portas e janelas) em imagens de plantas baixas digitalizadas.
+Este projeto foi desenvolvido utilizando imagens do dataset [CubiCasa5k-2](https://universe.roboflow.com/floorplan-recognition/cubicasa5k-2-qpmsa) disponível no Roboflow.
 
 ## 📺 Apresentação em Vídeo
-
-[Insira aqui o Link para o seu vídeo no YouTube]
+[Apresentação](https://youtu.be/dNiGMoestTY)
 > Clique no link acima para ver a explicação detalhada da solução e dos resultados (Máx 15min).
 
 ## 👥 Autores
